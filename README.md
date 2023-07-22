@@ -1,6 +1,6 @@
 # Veil
 
-![Veil Logo](https://www.veil-framework.com/wp-content/uploads/2013/12/cropped-Veil-Symbol2.png "Veil Logo")
+<img src="https://www.kali.org/tools/veil/images/veil-logo.svg" alt="Veil logo" width=150px height=150px>
 
 Veil is a tool designed to generate metasploit payloads that bypass common anti-virus solutions.
 
